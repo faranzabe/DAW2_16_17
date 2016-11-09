@@ -10,6 +10,6 @@ package ejemplo;
  * @author faranzabe
  */
 public class Persona {
-    String nombre;
+    String nombre; 
     int edad;
 }
